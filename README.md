@@ -7,6 +7,7 @@ Public canonical reference repository for the **Covenant of Mutual Intelligence*
 - [Covenant of Mutual Intelligence — Repository Edition v1.0.1](canon/COVENANT_OF_MUTUAL_INTELLIGENCE_2026-07-11.md)
 - [Fleet Command Distribution Manifest — All Tiers](canon/FLEET_COMMAND_DISTRIBUTION_MANIFEST_2026-07-11.md)
 - [Distribution Register Template](canon/COVENANT_DISTRIBUTION_REGISTER_TEMPLATE.csv)
+- [Public Integrity Record](canon/PUBLIC_INTEGRITY_RECORD.md)
 
 ## Authority Standing
 
